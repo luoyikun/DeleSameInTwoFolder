@@ -1,0 +1,10 @@
+E:\WinProjects\DeleSameInTwoFolder\DeleSameInTwoFolder\bin\Debug\DeleSameInTwoFolder.exe.config
+E:\WinProjects\DeleSameInTwoFolder\DeleSameInTwoFolder\bin\Debug\DeleSameInTwoFolder.exe
+E:\WinProjects\DeleSameInTwoFolder\DeleSameInTwoFolder\bin\Debug\DeleSameInTwoFolder.pdb
+E:\WinProjects\DeleSameInTwoFolder\DeleSameInTwoFolder\obj\Debug\DeleSameInTwoFolder.csprojAssemblyReference.cache
+E:\WinProjects\DeleSameInTwoFolder\DeleSameInTwoFolder\obj\Debug\DeleSameInTwoFolder.Form1.resources
+E:\WinProjects\DeleSameInTwoFolder\DeleSameInTwoFolder\obj\Debug\DeleSameInTwoFolder.Properties.Resources.resources
+E:\WinProjects\DeleSameInTwoFolder\DeleSameInTwoFolder\obj\Debug\DeleSameInTwoFolder.csproj.GenerateResource.cache
+E:\WinProjects\DeleSameInTwoFolder\DeleSameInTwoFolder\obj\Debug\DeleSameInTwoFolder.csproj.CoreCompileInputs.cache
+E:\WinProjects\DeleSameInTwoFolder\DeleSameInTwoFolder\obj\Debug\DeleSameInTwoFolder.exe
+E:\WinProjects\DeleSameInTwoFolder\DeleSameInTwoFolder\obj\Debug\DeleSameInTwoFolder.pdb

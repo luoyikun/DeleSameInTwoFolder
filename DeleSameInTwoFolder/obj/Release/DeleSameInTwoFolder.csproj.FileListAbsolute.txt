@@ -1,0 +1,10 @@
+E:\WinProjects\DeleSameInTwoFolder\DeleSameInTwoFolder\bin\Release\DeleSameInTwoFolder.exe.config
+E:\WinProjects\DeleSameInTwoFolder\DeleSameInTwoFolder\bin\Release\DeleSameInTwoFolder.exe
+E:\WinProjects\DeleSameInTwoFolder\DeleSameInTwoFolder\bin\Release\DeleSameInTwoFolder.pdb
+E:\WinProjects\DeleSameInTwoFolder\DeleSameInTwoFolder\obj\Release\DeleSameInTwoFolder.csprojAssemblyReference.cache
+E:\WinProjects\DeleSameInTwoFolder\DeleSameInTwoFolder\obj\Release\DeleSameInTwoFolder.Form1.resources
+E:\WinProjects\DeleSameInTwoFolder\DeleSameInTwoFolder\obj\Release\DeleSameInTwoFolder.Properties.Resources.resources
+E:\WinProjects\DeleSameInTwoFolder\DeleSameInTwoFolder\obj\Release\DeleSameInTwoFolder.csproj.GenerateResource.cache
+E:\WinProjects\DeleSameInTwoFolder\DeleSameInTwoFolder\obj\Release\DeleSameInTwoFolder.csproj.CoreCompileInputs.cache
+E:\WinProjects\DeleSameInTwoFolder\DeleSameInTwoFolder\obj\Release\DeleSameInTwoFolder.exe
+E:\WinProjects\DeleSameInTwoFolder\DeleSameInTwoFolder\obj\Release\DeleSameInTwoFolder.pdb
